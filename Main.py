@@ -6,15 +6,30 @@ import Database
 from datetime import date
 import API
 import cherrypy
-import wsgiref.handlers
 import threading
+import os
 
 def start_api():
 
     root = API.Root()
     root.course = API.Course()
 
-    cherrypy.quickstart(root)
+    app_config = {
+        '/': {
+            # enable serving up static resource files
+            'tools.staticdir.on'  : True,
+            'tools.staticdir.dir' : os.path.abspath(os.path.join(os.path.dirname(__file__), 'static')),
+            'tools.staticdir.index': 'index.html'
+        },
+    }
+
+    cherrypy.tree.mount(API.App(), '/', config=app_config)
+    cherrypy.tree.mount(root, '/api', config={})
+    cherrypy.config.update({'server.socket_host': '0.0.0.0', })
+    cherrypy.config.update({'server.socket_port': 8080, })
+    cherrypy.engine.start()
+    cherrypy.engine.block()
+
 
 
 def start_scraper(uia_object):

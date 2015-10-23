@@ -7,6 +7,10 @@ from playhouse.shortcuts import *
 from icalendar import Calendar, Event
 from datetime import datetime
 from cherrypy.lib.static import serve_file
+import os
+
+static_dir = os.path.dirname(os.path.abspath(__file__))  # Root static dir is this file's directory.
+print(static_dir)
 
 def default(obj):
     """Default JSON serializer."""
@@ -22,6 +26,15 @@ def default(obj):
     return millis
 
 class Root: pass
+
+class App:
+
+    @cherrypy.expose
+    def index(self):
+        return 'Hello world!'
+
+
+
 class Course:
 
     @cherrypy.expose

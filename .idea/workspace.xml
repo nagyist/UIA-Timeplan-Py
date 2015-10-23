@@ -26,306 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e091b110-e517-4161-8a63-24bb1e8810dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\AkvatiskkologifellesmasterprogramMarinbiologi2rGrvedHiT.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Arbeids- og velferdssosiologi, bachelor 3. år Økonomi og jus.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Arbeidsogvelferdssosiologibachelor3rPlanleggingogkommunikasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Arbeidsogvelferdssosiologibachelor3rPolitikkadministrasjonogorganisasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Arbeidsogvelferdssosiologibachelor3rkonomiogjus.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Arbeidsplassbasertbarnehagelrerutdanningbachelorprogram.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\BLU 3.år Kreativitet og kunstfaglig utviklingsarbeid, drama.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\BLU 3.år Kreativitet og kunstfaglig utviklingsarbeid.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\BLU3rKreativitetogkunstfagligutviklingsarbeid.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\BLU3rKreativitetogkunstfagligutviklingsarbeiddrama.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram1rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram1rklC.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram1rklD.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram2rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram2rklA.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram2rklB.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram2rklC.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram3rFORMINGGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram3rPEDGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram3rvalgMatogmltideribarnehagen.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram3rvalgSmbarnspedagogikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelrerutdanningbachelorprogram3rvalgSprklitteraturognyemedieribarnehagen.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelærerutdanning, bachelorprogram, 1.år kl D.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Barnehagelærerutdanning, bachelorprogram, 2.år kl D.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bioingenirfagbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bioingenirfagbachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bioingenirfagbachelorprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bioingeniørfag bachelorprogram 2. år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Biologi bachelorprogram 2.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Biologi bachelorprogram, økologisk studieretning 3.år - Se valgemner.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Biologi årsstudium biologisk mangfold.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Biologibachelorprogramkologiskstudieretning3rSevalgemner.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bygg, Masterprogram 1. år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Bygg, Masterprogram 2. år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\ByggMasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\ByggMasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Development Studies (Exchange Students).html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\DevelopmentStudiesExchangeStudents.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Drama årsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Dramarsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelsk masterprogram 1.sem..html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelsk årsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelsk, bachelorprogram 1.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelsk, bachelorprogram 2.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelskbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelskmasterprogram1sem.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Engelskrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ernringmatogkulturbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ernringmatogkulturrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ernæring, mat og kultur årsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ernæring, mat og kultur, bachelorprogram 1.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ernæring, mat og kultur, bachelorprogram 3.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\European Integration Autumn.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\European Integration Summer .html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Executive Master of Business Administration (H14).html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Executive Master of Business Administration (H15).html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Executive Master of Business Administration (V14).html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Executive Master of Business Administration (V15).html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Executive Master of Business Administration 1 Sem 1 Year.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\ExecutiveMasterofBusinessAdministrationV14.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\FVKihallavtungekjrety.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglrerutdanningimusikkbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglrerutdimusikkbachelorprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglrerutdimusikkdansogdramahomrdramabach3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglrerutditeaterbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglrerutditeaterbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i drama, bac 3.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i musikk, bachelorprogram 2. år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i musikk, bachelorprogram 3.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i musikk, dans og drama, h.omr. drama, bach. 3.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i teater, bachelor 1.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutd. i teater, bachelor 2.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutdanning for tospråklige - bachelorprogram.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Faglærerutdanning i musikk, bachelorprogram 1.år.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Filmvitenskapogfilmproduksjonpbyggingsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Filosofirsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Folkehelsearbeidbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Folkehelsearbeidbachelorprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Folkehelsevitenskapmasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\ForetakskontrollavkjreoghviletidFATS.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Fornybarenergimasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Fornybarenergimasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Franskbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Franskrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\FriluftslivognaturguidingrsstudiumTimeplanSeFronter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Fysikkrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Globalutviklingogsamfunnsplanleggingmaster1rSamfunnsplanleggingogglobaleendringskrefterH2015.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Globalutviklingogsamfunnsplanleggingmaster2rDevelopmentManagement.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Globalutviklingogsamfunnsplanleggingmaster2rSamfunnsplanleggingogglobaleendringskrefterH2016.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanning171rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanning172rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanning173rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn171r5rigmaster1rkroppsving.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn171r5rigmaster1rnaturfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn171r5rigmaster1rreligionlivssynogetikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn172r5rigmaster2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn172rigmaster1r5rigmaster4rnordisksprkoglitteratur.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn172rigmaster2r5rigmaster5rmatematikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn172rigmaster2r5rigmaster5rnordisksprkoglitteratur.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn173r5rigmaster3rengelsk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn173r5rigmaster3rmatematikk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn173r5rigmaster3rnorsk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn173r5rigmaster3rreligionlivssynogetikk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn174rmatematikk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn174rnaturfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn174rnorsk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn174rreligionlivssynogetikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5101r5rigmaster1rkroppsving.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5101r5rigmaster1rnaturfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5101r5rigmaster1rreligionlivssynogetikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102r5rigmaster2rnorsk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102r5rigmaster2rsamfunnsfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102rigmaster1r5rigmaster4rreligion.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102rigmaster2r5rigmaster5rengelsk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102rigmaster2r5rigmaster5rmatematikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102rigmaster2r5rigmaster5rnordisksprkoglitteratur.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5102rigmaster2r5rigmaster5rreligion.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5103r5rigmaster3rkroppsving.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5103r5rigmaster3rnaturfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rfransk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rmatoghelse1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rnaturfag.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rnorsk2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rsamfunnsfag2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Grunnskolelrerutdanningfortrinn5104rspansk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\HRogorganisasjonsutviklingrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Helsefagmasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Helseogsosialinformatikkmasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Helseogsosialinformatikkmasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Helseogsosialinformatikkmasterprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Historiebachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Historiebachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Historiemasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Historiersstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IKTrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IToginformasjonssystemerBachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IToginformasjonssystemerBachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IToginformasjonssystemerBachelor3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IToginformasjonssystemerrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Idrettbachelorprogram1rTimeplanSeFronter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Idrettbachelorprogram2rTimeplanSeFronter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Idrettsvitenskapmasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Industriellkonomiogteknologiledelsemaster4r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Industriellkonomiogteknologiledelsemaster5r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Informasjonsogkommunikasjonsteknologimaster4rCommunicationTechnologies.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Informasjonsogkommunikasjonsteknologimaster4rInformationTechnologies.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Informasjonsogkommunikasjonsteknologimaster5rCollaborativeInformationSystems.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Informasjonsogkommunikasjonsteknologimaster5rSystemDevelopment.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\InformasjonssystemerMaster2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor1rTRESTresemestermedsommerkurs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor1rYvei.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor1rfagskolekonstruksjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor2rfagskoleplan.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagByggdesignbachelor3rkonstruksjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagDatabachelor1rTRESTresemestermedsommerkurs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagDatabachelor2rdatateknikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagDatabachelor2rnettverksdrift.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagElektronikkbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagElektronikkbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFlyteknikkbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFlyteknikkbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor1rTRESTresemestermedsommerkurs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor1rYvei.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor1rfagskole.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor2rfagskole.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor3rRetnA.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagFornybarenergibachelor3rRetnB.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagMekatronikkbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagMekatronikkbachelor1rTRESTresemestermedsommerkurs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagMekatronikkbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagMekatronikkbachelor3rKombinasjon1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\IngenirfagMekatronikkbachelor3rKombinasjon2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Innovasjonogkunnskapsutviklingmaster2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kjreoghviletidskontrollpveg.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kjretyregistrering.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kliniskhelsevitenskapmasterandrer.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kliniskhelsevitenskapmasterfrster.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kommunikasjonbachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\KommunikasjonbachelorprogramKommunikasjonogmedier1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kommunikasjonbachelorprogrammedieproduksjon1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagfordypningimusikkbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagfordypnkunstoghndvbac1rDetaljerttimeplanvedsemesterstart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagfordypnkunstoghndvbac2rDetaljerttimeplanvedsemesterstart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagfordypnmusikkbac1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagmaster1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstfagmaster2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstoghndverkbac1rDetaljerttimeplanvedstudiestart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstoghndverkbac2rDetaljerttimeplanvedsemesterstart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Kunstoghndverkbac3rDetaljerttimeplanvedsemesterstart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\KunstoghndverkpbyggingDetaljerttimeplanvedstudiestart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\KunstoghndverkrsstudiumDetaljerttimeplanvedstudiestart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Ledelsehst2Master.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningengelskrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningfysikkrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningirealfagmatematikkdidaktikk3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningreligionogetikkrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningsamfunnskunnskaprsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningspanskrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Lektorutdanningtyskrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Litteraturfilmogteaterbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Litteraturfilmogteaterrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MKDSyllabusStudentSet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MRRSIVK2rigMasterprogram1r1semRegnskapogrevisjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MarkedsfringogledelseBachelorprogram1r1sem.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkdidaktikkmasterprogram2rig1rALU.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkdidaktikkmasterprogram2rig2rALU.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkogfysikkbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkogfysikkbachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkogkonomibachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkogkonomibachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematikkrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Matematiskfinansbachelorprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MekatronikkMasterprogram1rbakgrelektro.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MekatronikkMasterprogram1rbakgrmaskin.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MekatronikkMasterprogram1rbakgrmekatronikk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MekatronikkMasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MultimediaMasterprogram1rStarthst2014.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MultimediaMasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Multimedieteknologiogdesignbachelor1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Multimedieteknologiogdesignbachelor2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Multimedieteknologiogdesignbachelor3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MusicManagementMastersProgramme1sem.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\MusicManagementMastersProgramme3sem.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\NORSEC.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Nordisksprkoglitteraturbachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Nordisksprkoglitteraturmasterprogram1semmedemnekretslitteratur.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Nordisksprkoglitteraturmasterprogram1semmedemnekretssprk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Nordisksprkoglitteraturmasterprogram3sem.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Norsksomandresprkogkulturkunnskaphalvrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Oversettingoginterkulturellkommunikasjonengelsk1rbachelorprogram.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Pedagogikkbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Pedagogikkbachelorprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Pedagogikkbachelorprogramveiledningogpedagogiskledelse3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Pedagogikkmasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Pedagogikkmasterprogramfordypningspesped2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Praktiskpedagogiskutdanningforfaglrereiallmennefagdeltidover2r2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Praktiskpedagogiskutdanningforyrkesfaglrerefortrinn813PPUY1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Praktiskpedagogiskutdanningforyrkesfaglrerefortrinn813PPUY2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Programmeringmultimediarsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Psykiskhelsearbeidmasterprogram4r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Psykiskhelsearbeidmastervidereutdanningandrer.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Psykiskhelsearbeidmastervidereutdanningfrster.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Regnskapogrevisjonbachelorprogram3rkull2013.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Religionetikkogkulturbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Religionetikkogsamfunndoktorgradsprogram.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Religionogetikkrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Rettsvitenskapbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Rettsvitenskapbachelorprogram3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsendringogkommunikasjonbachelorprogram3rInformasjonsogkommunikasjonsteknologi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsendringogkommunikasjonbachelorprogram3rMedierogkommunikasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsendringogkommunikasjonbachelorprogram3rPolitikkogorganisasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsendringogkommunikasjonbachelorprogram3rUtviklingsstudier.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsfagrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnskommunikasjonmasterprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnskommunikasjonmasterprogram2r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsplanleggingogkommunikasjonbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsplanleggingogkommunikasjonbachelorprogram2rJusogkonomi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsplanleggingogkommunikasjonbachelorprogram2rMediaogkommunikasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsplanleggingogkommunikasjonbachelorprogram2rSpansk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Samfunnsplanleggingogkommunikasjonbachelorprogram2rStatsvitenskapogorganisasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sexologitverrfagligvidereutdanningdeltid.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Smbarnspedagogikkhalvrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sosialtarbeidbachelor3r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sosiologibachelor2rbreddevalg.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sosiologibachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sosiologiogsosialtarbeidmasterprogram1rsosialtarbeid.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sosiologiogsosialtarbeidmasterprogram1rsosiologi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Spanskrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Spesialpedagogikkbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Statsvitenskapbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Statsvitenskapbachelorprogram3rAnnenrsenhet.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Statsvitenskapbachelorprogram3rOffentligstyring.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Statsvitenskaprsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sykepleiebachelorprogram1rGrimstad.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sykepleiebachelorprogram1rKristiansand.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Sykepleiebachelorprogram2rKristiansand.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Tekniskutekontrollavtungekjrety.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Teknutekontrollavtungekjrety.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Tungtransportkontroll.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Tyskbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Tyskrsstudium.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utenlandskestudenter.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\UtvendemusikkklassiskmusikkformidlingBac1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram1r.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rAnnenbredde.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rInnfringisosiologi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rJusogkonomi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rMedieproduksjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rReligionoglivssyn.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rSamfunnsplanleggingogkommunikasjon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudierbachelorprogram2rSpansk.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\perar\Desktop\UIA-Timeplan-Py\Test\Utviklingsstudietrsstudium.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.py" afterPath="$PROJECT_DIR$/API.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scraper.py" afterPath="$PROJECT_DIR$/Scraper.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/demo.js" afterPath="$PROJECT_DIR$/static/demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/index.html" afterPath="$PROJECT_DIR$/static/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UIA-Timeplan-Py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -339,7 +44,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/UIA-Timeplan-Py$Main.coverage" NAME="Main Coverage Results" MODIFIED="1445571710883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UIA-Timeplan-Py$Main.coverage" NAME="Main Coverage Results" MODIFIED="1445623259398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -354,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
               <folding>
                 <element signature="e#24#51#0" expanded="true" />
               </folding>
@@ -362,31 +67,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scraper.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scraper.py">
+      <file leaf-file-name="API.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83136594">
-              <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="e#21#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Form.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Form.py">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-3.4607143">
+              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Database.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Database.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="27" />
+            <state vertical-scroll-proportion="-3.3793104">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -413,9 +122,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Dependencies.py" />
+        <option value="$PROJECT_DIR$/Scraper.py" />
         <option value="$PROJECT_DIR$/API.py" />
         <option value="$PROJECT_DIR$/Main.py" />
-        <option value="$PROJECT_DIR$/Scraper.py" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/static/demo.js" />
       </list>
     </option>
   </component>
@@ -427,10 +138,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="952" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -455,6 +165,11 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -465,9 +180,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,6 +187,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RunManager" selected="Python.Main">
     <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -483,7 +196,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Runtime\Python34\python.exe" />
+      <option name="SDK_HOME" value="C:\Development\Python34\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -667,16 +380,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -942,31 +645,28 @@
       <updated>1445555548769</updated>
       <workItem from="1445555549572" duration="7286000" />
       <workItem from="1445570008537" duration="2234000" />
+      <workItem from="1445612140102" duration="5732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9520000" />
+    <option name="totallyTimeSpent" value="15252000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32864866" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3322072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -975,9 +675,13 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -989,6 +693,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1025,21 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Runtime/Python34/Lib/site-packages/peewee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277026">
-          <caret line="2479" column="0" selection-start-line="2479" selection-start-column="0" selection-end-line="2479" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Form.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Database.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1056,31 +779,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5750422">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#21#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
           <folding>
             <element signature="e#24#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83136594">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        <state vertical-scroll-proportion="3.7035713">
+          <caret line="126" column="119" selection-start-line="126" selection-start-column="119" selection-end-line="126" selection-end-column="119" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3793104">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4607143">
+          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
