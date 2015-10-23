@@ -37,7 +37,6 @@ class Scraper:
         self.form['lbWeeks'] = soup.find(id="lbWeeks").find_all("option")[1]["value"]
 
     def scrape(self, uia):
-
         form = uia.form
         form.VIEWSTATE = self.form['__VIEWSTATE']
         form.VIEWSTATEGENERATOR = self.form['__VIEWSTATEGENERATOR']
@@ -62,7 +61,6 @@ class Scraper:
         # Fetch all options
         options = [(option.text, option['value']) for option in soup.find(id="dlObject").find_all("option")]
         print("Found: {0} items to scrape!".format(len(options)))
-
 
         second_form = form.second()
         for option in options:
@@ -104,7 +102,8 @@ class Scraper:
         # Delete all existing records if not new
         if not isNew:
             query = Database.Subject.delete().where(Database.Subject.course == db_course.id)
-            print("Deleted: {0} items.".format(query.execute()))
+            num = query.execute()
+            #print("Deleted: {0} items.".format(query.execute()))
 
 
         if isCalendar:
@@ -126,7 +125,7 @@ class Scraper:
 
                 # 20 Aug 09.15
                 date_object_from = datetime.strptime("{0} {2} {1}".format(date, times[0], self.year), "%d %b %Y %H.%M")
-                date_object_to = datetime.strptime("{0} {2} {1}".format(date, times[0], self.year), "%d %b %Y %H.%M")
+                date_object_to = datetime.strptime("{0} {2} {1}".format(date, times[1], self.year), "%d %b %Y %H.%M")
 
                 db_subject = Database.Subject(
                     date_from=date_object_from,
