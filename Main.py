@@ -8,13 +8,30 @@ import API
 import cherrypy
 import wsgiref.handlers
 import threading
+import os
 
 def start_api():
 
     root = API.Root()
     root.course = API.Course()
+    root.admin = API.Admin()
 
-    cherrypy.quickstart(root)
+    server_config = {
+        'server.socket_host': '0.0.0.0',
+        'server.socket_port':  8080,
+        'engine.autoreload_on': False
+    }
+    cherrypy.config.update(server_config)
+
+    conf = {
+        '/': {
+            'tools.staticdir.on': True,
+            'tools.staticdir.dir': os.path.join(os.path.dirname(os.path.abspath(__file__)), "public_html"),
+            'tools.staticdir.index': 'index.html'
+        }
+    }
+
+    cherrypy.quickstart(root, config=conf)
 
 
 def start_scraper(uia_object):
@@ -33,7 +50,7 @@ def do_input():
         except ValueError:
             year = date.today().year
 
-        if season == "g" or season == "h":
+        if season == "v" or season == "h":
             break
     return season, year
 

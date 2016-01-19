@@ -1,0 +1,67 @@
+<div class="btn-group" style="color: white;">
+
+
+    <a href="/course/ical/{{course.id}}">
+        <button class="btn btn-info">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </button>
+    </a>
+
+    <li class="btn btn-navbar"><b>{{course.name}}</b></li>
+
+
+    <li class="btn btn-navbar" ng-click="addFavourite()" ng-show="!isFavourite"><i class="fa fa-plus fa-navbar"></i> Add to favourites </li>
+    <li class="btn btn-navbar" ng-click="removeFavourite()" ng-show="isFavourite"><i class="fa fa-minus fa-navbar"></i> Remove favourite </li>
+
+
+
+
+</div>
+
+
+<div class="panel-group scrollable-content" id="accordion">
+
+    <div ng-repeat="date in dates | orderBy">
+        <div id="{{date}}" class="panel panel-default course-item">
+            <div class="panel-heading flat" toggle target="{{$index}}">
+                <h4 class="panel-title">
+                    {{date | date:'EEEE dd. MMMM' }}
+                </h4>
+            </div>
+        </div>
+
+
+        <!-- Items -->
+        <div class="container course-item-data white" ng-repeat="item in courseItems | filterDay: date">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <span class="glyphicon glyphicon-dashboard white"></span>
+                    {{item.date_from - 3600000 | date:'HH:mm:ss'}} - {{item.date_to - 3600000 | date:'HH:mm:ss'}}
+
+                </div>
+                <div class="col-lg-6">
+                    <span class="glyphicon glyphicon-home"></span>
+                    {{item.room}}
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-6">
+                    <span class="glyphicon glyphicon-book"></span>
+                    {{item.activity}}
+                </div>
+                <div class="col-lg-6">
+                    <span class="glyphicon glyphicon-user"></span>
+                    {{item.educator}}
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+</div>

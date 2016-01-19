@@ -7,6 +7,9 @@ from playhouse.shortcuts import *
 from icalendar import Calendar, Event
 from datetime import datetime
 from cherrypy.lib.static import serve_file
+from UIA import UIA
+from Scraper import Scraper
+import os.path
 
 def default(obj):
     """Default JSON serializer."""
@@ -22,26 +25,57 @@ def default(obj):
     return millis
 
 class Root: pass
+
+class Admin:
+    @cherrypy.expose
+    def update(self, year, season):
+        print("Starting update...")
+        uia_courses = UIA(1)
+        uia_subject = UIA(2)
+
+        scraper = Scraper(season, year)
+        scraper.scrape(uia_courses)
+
+        scraper = Scraper(season, year)
+        scraper.scrape(uia_subject)
+
+
+        return "Done!"
+
+
+
 class Course:
 
     @cherrypy.expose
     def list(self):
         return json.dumps([{
             'id': course.id,
-            'name': course.name
-        } for course in peewee.SelectQuery(Database.Course, Database.Course.id, Database.Course.name)])
+            'name': course.name,
+            'type': course.type,
+            'season': course.season,
+            'year': course.year
+        } for course in peewee.SelectQuery(Database.Course, Database.Course.id, Database.Course.name, Database.Course.year, Database.Course.season, Database.Course.type)])
 
     @cherrypy.expose
     def item(self, id):
 
         course = model_to_dict(Database.Course.get(Database.Course.id == id))
         items = [model_to_dict(item) for item in Database.Subject.select().where(Database.Subject.course == course['id'])]
+        dates = list(set([str(item["date_to"].date()) for item in items]))
 
 
         return json.dumps({
             'course': course,
-            'items': items
+            'items': items,
+            'dates': dates
         }, default=default)
+
+
+    @cherrypy.expose
+    def info(self, id):
+        course = model_to_dict(Database.Course.get(Database.Course.id == id))
+        return json.dumps(course)
+
 
     @cherrypy.expose
     def ical(self, id):

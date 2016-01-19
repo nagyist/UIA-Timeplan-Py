@@ -17,13 +17,18 @@ class Teacher(BaseModel):
 class Course(BaseModel):
     id = pw.PrimaryKeyField(primary_key=True)
     name = pw.CharField(null=False)
-    value = pw.CharField(null=False, unique=True)
+    value = pw.CharField(null=False)
     season = pw.CharField(null=False)
+    year = pw.CharField(null=False)
     type = pw.CharField(null=False)
 
-    indexes = (
-        (('value', 'season'), True)
-    )
+    class Meta:
+        indexes = (
+            # create a unique on from/to/date
+            (('value', 'season', 'year'), True),
+
+
+        )
 
 class Subject(BaseModel):
     id = pw.PrimaryKeyField(primary_key=True)
