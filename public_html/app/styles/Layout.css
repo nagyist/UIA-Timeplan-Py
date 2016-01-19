@@ -1,0 +1,59 @@
+
+
+.course-item{
+    border-bottom: 5px solid #f5f5f5;
+}
+
+.white{
+    color: white;
+}
+
+.panel{
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+.course-date{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.past-course .panel-heading{
+    background-color: #f2dede;
+}
+
+.current-course .panel-heading{
+    background-color: #fcf8e3;
+}
+
+.future-course .panel-heading{
+    background-color: #d0e9c6;
+}
+
+.course-item-data{
+    padding:10px;
+    border-bottom: 1px solid gray;
+}
+
+.row div{
+    padding: 2px;
+}
+
+.flat{
+    border-radius: 0px !important;
+}
+
+.list-group-item{
+    cursor:pointer;
+}
+
+.menu-header{
+    margin-top: 20px;
+    color:white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.no-padding{
+    padding: 0;
+}
