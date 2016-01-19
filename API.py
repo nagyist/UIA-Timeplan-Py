@@ -26,6 +26,7 @@ def default(obj):
 
 class Root: pass
 
+
 class Admin:
     @cherrypy.expose
     def update(self, year, season):
@@ -41,8 +42,6 @@ class Admin:
 
 
         return "Done!"
-
-
 
 class Course:
 

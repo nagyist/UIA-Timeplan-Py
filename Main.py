@@ -6,7 +6,6 @@ import Database
 from datetime import date
 import API
 import cherrypy
-import wsgiref.handlers
 import threading
 import os
 
